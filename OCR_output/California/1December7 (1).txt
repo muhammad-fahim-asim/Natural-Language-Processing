@@ -1,0 +1,260 @@
+MEMORANDUM OF COOPERATION BETWEEN THE CALIFORNIA AIR
+RESOURCES BOARD, OF THE STATE OF CALIFORNIA AND THE MUNICIPALITY
+OF MEXICALI, BAJA CALIFORNIA, THROUGH THE SENIOR OFFICER OF THE 22nd
+CITY COUNCIL OF MEXICALI AND THE DIRECTOR OF THE ENVIRONMENTAL
+PROTECTION DEPARTMENT FOR THE MUNICIPALITY OF MEXICALI, BAJA
+CALIFORNIA ON THE LOAN OF PM AIR MONITORING SENSORS
+This Memorandum of Cooperation (MOC) is entered into by the California Air
+Resources Board of the State of California (CARB) and the municipality of Mexicali,
+Baja California, through the Senior Officer of the 22nd City Council of Mexicali
+(Municipality) and the Director of the Environmental Protection Department for the
+Municipality of Mexicali in Baja California (Department) hereafter jointly referred to as
+the "Participants."
+I.
+WHEREAS, in view of the commitment of California and Mexico to work
+cooperatively toward improving air quality in the border region, the Imperial
+County I Mexicali Air Quality Work Plan was created to set initial priority focus
+areas in the border region to improve air quality;
+II.
+WHEREAS, the Participants desire to enhance the availability of air quality data
+to better understand the causes and severity of air pollution in the Imperial
+County - Mexicali border region;
+III. WHEREAS, this MOC is expected to facilitate enforcement and regulation in
+Mexicali of applicable air quality laws by allowing focused control efforts on
+sources causing the increased concentrations of PM in the area;
+IV. NOW, THEREFORE, the Participants agree to cooperate as follows:
+SECTION I
+PURPOSE
+The purpose of this MOC is to provide for the establishment and operation of a network
+of 50 PM air sensors (Sensors, as listed in the Attachment) in Mexicali, Baja California
+by the Municipality. The Sensors will be used to enhance particulate matter (PM)
+monitoring in the Municipality, facilitate exchange of information related to air quality in
+the region, and enhance the capacity of Municipality authorities to enforce regulations to
+limit activities known to adversely impact air quality. The ownership of the Sensors will
+remain with the CARB and all responsibilities for the operation and maintenance of the
+sensors will be carried by the Municipality.
+SECTION II
+AREAS OF COOPERATION
+The Municipality intends to:
+1.
+Take possession and control of, and full responsibility for the Sensors, and use
+the Sensors to form a PM monitoring network in Mexicali;
+2.
+Install the Sensors in Mexicali in locations likely to ensure their continued
+operation (such as at governmental or educational institutions);
+1
+
+
+
+3.
+Inform CARB of any problems that may arise with the Sensors' operation and
+consult with CARB on potential solutions;
+4.
+Undertake reasonable efforts to maintain the continued operation of the Sensors;
+5.
+Use the data provided by the Sensors as an enforcement tool to identify sources
+that generate high PM around the Municipality; and
+6.
+Quarterly, share information with CARB on the actions taken to reduce PM
+emissions based on sensor data. Information is to include general information on
+the inspections that were performed as a result of the monitoring and the
+associated enforcement actions that were taken. Quarterly submittal of
+inspection reports will be sent to CARB for three (3) years from the date of
+signature of this MOC.
+CARB intends to:
+1. Provide the Sensors to the Municipality in two phases;
+Phase 1: 25 PM air sensors will be delivered to the Municipality in Imperial
+County, California at a time and place that the City and CARB agree to;
+Phase 2: An additional 25 PM air sensors will be sent to the Municipality
+within three (3) months if CARB determines that the Phase 1 sensors are
+operating correctly after their installation in Mexicali by the City;
+2. Transfer responsibility for the control and operation of the Sensors to the City on
+an ongoing basis for the purpose of the Municipality operating an air monitoring
+network in Mexicali;
+3. Provide a training session in El Centro, California, with CARB staff, the City, and
+other local government organizations to discuss sensor installation and
+operation;
+4. Provide the Municipality with additional consultation on installation, maintenance,
+and other technical issues relating to the sensors as needed.
+SECTION III
+DURATION, TERMINATION, MODIFICATION
+The Municipality will be allowed to possess the Sensors on an ongoing basis, subject to
+the Municipality fulfillment of its intentions as stated in this MOC. This MOC may be
+terminated by either CARB or the Municipality, if the MOC is terminated the Municipality
+will make reasonable efforts to return the Sensors to CARB. This MOC may be
+amended at any time as agreed by the Participants in writing.
+SECTION IV
+DISPUTE RESOLUTION, AUTHORIZED REPRESENTATIVES, NOTICES
+The Participants will use their best efforts to settle amicably any dispute, controversy, or
+claim arising out of this MOC. Any disputes arising out of this MOC shall be negotiated
+between the authorized representatives identified below, who shall act as liaisons for
+this MOC. Any notice or request required or permitted to be given or made under this
+2
+
+
+
+MOC shall be in writing and provided to the address specified below or such other
+address as shall be hereafter notified.
+For the California Air Resources Board: Chief of the Air Quality Planning and Science
+Division.
+1001 I Street, Sacramento, CA 95812
+For the Municipality of Mexicali, Baja California: the Senior Officer of the 22nd City
+Council of Mexicali.
+Calzada Independencia 998, Centro Civico C.P. 21000, Mexicali, Baja California
+For the Environmental Protection for the Municipality of Mexicali, Baja California: The
+Director.
+Plaza Baja California Local 17-C, Calzada Independencia.S/N, Centro Civico C.P.
+21000, Mexicali Baja California.
+SECTION V
+INDEMNIFICATION
+The Municipality agrees to indemnify CARB for any action taken against CARB relative
+to the provision of the Sensors as described in this MOC.
+SECTION VI
+GOOD FAITH, FUNDING AND RESOURCES
+The Participants agree in good faith to uphold the general principle on the transfer of
+possession of the Sensors. CARB and the Municipality agree to notify one another if
+any problems arise and to work together to foster maximum confidence in the air quality
+monitoring data generated by the Sensors. All activities undertaken pursuant to this
+MOC shall be subject to the applicable laws of the Participants, as well as the
+availability of funds, personnel, and other resources of each Participant.
+SECTION VII
+SUPPLEMENTARY PROVISION
+The Participants acknowledge that this MOC is only intended to provide for cooperation
+between the Participants and does not create any legally binding rights or obligations.
+To the extent any other provision of this MOC is inconsistent with this paragraph, this
+paragraph shall control.
+In WITNESS THEREOF, the California Air Resources Board and the Municipality of
+Mexicali, Baja California, approve of this MOC to be executed by their duly authorized
+representatives, signed in duplicate in the city of Mexicali, Baja California the 7th of
+December of 2018.
+3
+
+
+
+THE CALIFORNIA AIRRESOURCES BOARD
+L X
+eu
+MICHAEL BENJAMINJ
+Chief, Air Quality Planning and Science Division
+THE MUNICIPALITY OF MEXICALI, BAJA ÇALIFORNIA,
+OSCAR ORTEGA KELEZ
+Senior Officer of the 22nd City Council of Mexicali, Baja California.
+THE ENVIRONMENTAL PROTECTION DEPARTMENT FOR THE MUNICIPALITY OF
+MEXICALI, BAJA CALIFORNIA
+A
+LUISFLORES SOLIS
+Director of the Environmental Protection Department for the Municipality of Mexicali in
+Baja California
+WITNESSES
+4
+
+
+
+-
+Attachment - PM Sensors MAC address'
+Sensor MAC address Sensor MAC address
+1
+68:c6:3a:89:7b:40
+26
+68:c6:3a:89:71:38
+2
+68:c6:3a:8e:79:e9
+27
+68:c6:3a:89:7e:72
+3
+68:C6:3a:89:1d:64
+28
+68:c6:3a:89:7f:3a
+4
+68:c6:3a:89:1e:17
+29
+68:c6:3a:89:6e:31
+5
+68:C6:3a:89:7e:7f
+30
+68:c6:3a:89:7e:7d
+6
+68:c6:3a:89:7e:74
+31
+68:c6:3a:89:7e:76
+7
+68:c6:3a:89:7e:78
+32
+68:C6:3a:89:6e:5b
+8
+68:c6:3a:89:7e:7e
+33
+68:c6:3a:89:7f:40
+9
+68:c6:3a:89:7d:d8
+34
+68:c6:3a:89:6e:a0
+10
+68:c6:3a:8e:8e:fd
+35
+68:c6:3a:8e:a4:99
+11
+68:C6:3a:8e:4e:a
+36
+68:c6:3a:8e:8e:12
+12
+68:c6:3a:8e:59:5a
+37
+68:c6:3a:8e:5c:10
+13
+60:1:94:65:ab:b6
+38
+68:c6:3a:8e:a4:6b
+14
+60:1:94:65:ac:85
+39
+68:c6:3a:8e:6b:94
+15
+60:1:94:65:ab:e8
+40
+68:c6:3a:8e:59:4a
+16
+84:f3:eb:45:26:7
+41
+68:c6:3a:8e:8e:17
+17
+84:f3:eb:45:1f:7c
+42
+68:c6:3a:8e:59:4e
+18
+84:f3:eb:45:1b:98
+43
+84:13:eb:45:21:dC
+19
+ec:fa:bc:b:b2:a9
+44
+84:f3:eb:45:26:42
+20
+ec:fa:bc:b:b1:b7
+45
+84:13:eb:45:1e:5d
+21
+68:c6:3a:89:60:2a
+46
+84:f3:eb:45:25:51
+22
+68:c6:3a:89:7f:3b
+47
+ec:fa:bc:b:b1:74
+23
+68:c6:3a:89:7d:c7
+48
+ec:fa.bc:b:b1:99
+24
+68:c6:3a:89:7e:75
+49
+ec:fa:bc:b:6f:cd
+25
+68:c6:3a:89:7f:48
+50
+2c:3a:e8:48:ac:13
+U
+K
+1 The MAC (Media Access Control) address is a globally unique identifier assigned to
+network devices and may be used to identify hardware, similar to a serial number.
+5

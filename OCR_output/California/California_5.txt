@@ -1,0 +1,507 @@
+SEAL OF
+-
+The
+Ontario
++ +
+Québec + 
+CAL ORNIA
+AGREEMENT ON
+THE HARMONIZATION AND INTEGRATION
+OF CAP-AND-TRADE PROGRAMS
+FOR REDUCING GREENHOUSE GAS EMISSIONS 1
+1 In 2019, the Trump administration filed a lawsuit arguing that this Agreement is unconstitutional
+on the grounds that it violates the Treaty Clause and Compact Clause of Article I, Section 10 of the
+U.S. Constitution; is preempted by U.S. foreign policy; and violates the Foreign Commerce Clause
+of Article I, Section 8. Complaint, United States V. California, No. 19-CV-02142 (E.D. Cal. Oct. 23,
+2019). In 2020, the federal district court granted summary judgment against the administration
+on all claims. United States V. California, 444 E Supp. 3d 1181 (E.D. Cal. 2020); Memorandum
+and Order Re: Second Cross-Motions for Summary Judgment, United States V. California, No. 2:19-
+CV-02142 (E.D. Cal. Jul. 17, 2020). The Trump administration appealed to the Ninth Circuit, but
+the Biden administration subsequently stipulated to the voluntary dismissal of the appeal in April
+2021. Stipulation for Dismissal Under Federal Rule of Appellate Procedure 42(B), United States V.
+California, No. 20-16789 (9th Cir. Apr. 21, 2021).
+
+
+
+WHEREAS, the Parties publicly adopted their own greenhouse gas emissions
+reduction targets, their own regulation on greenhouse gas emissions reporting
+programs and their own regulation(s) on their cap-and-trade programs;
+WHEREAS, the Parties are participants of Western Climate Initiative, Inc.
+(WCI, Inc.), a non-profit corporation incorporated in October 2011, providing
+administrative and technical services to its participants to support and
+facilitate the implementation of their cap-and-trade programs for reducing
+greenhouse gas emissions;
+WHEREAS, the Parties share a common interest in working jointly and
+collaboratively toward the harmonization and integration of their greenhouse
+gas emissions reporting programs and of their cap-and-trade programs for
+reducing greenhouse gas emissions;
+WHEREAS, the Parties recognize that the harmonization and integration of
+their greenhouse gas emissions reporting programs and their cap-and-trade
+programs are to be attained by means of regulations adopted by each Party;
+WHEREAS, the Parties have developed constructive working relationships
+among their respective staff and officials, and have demonstrated the ability to
+harmonize their programs and integrate their program operations, including by
+enabling staff to work jointly through workgroups to develop proposed
+harmonized approaches for consideration by each Party on topics including,
+but not limited to, greenhouse gas emissions reporting, issuance of compliance
+instruments, program scopes, compliance requirements, offset protocols,
+program registry, auction design and execution, auction platform, market
+regulations, invalidation of offset credits, enforcement, public disclosure of
+information, and information sharing among the Parties;
+WHEREAS, the Parties further recognize that this Agreement is intended to
+facilitate continued consultation, using and building on existing working
+relationships, during the implementation and the operation of the Parties'
+respective programs and supporting the development of any proposed program
+changes, including new offset protocols, and new program elements, with the
+objective of maintaining and developing harmonized and integrated
+approaches that may be considered by each Party;
+WHEREAS, the Parties further recognize the importance of effective and
+timely public consultation regarding their respective program operations,
+program changes, new offset protocols, and new program elements;
+WHEREAS, the Parties further recognize that the present Agreement does
+not, will not and cannot be interpreted to restrict, limit or otherwise prevail
+over relevant national obligations of each Party, if applicable, and each Party's
+sovereign right and authority to adopt, maintain, modify, repeal or revoke any
+of their respective program regulations or enabling legislation;
+WHEREAS, the Gouvernement du Québec and the California Air Resources
+Board agreed to link their cap-and-trade programs by signing in September
+2013 the "Agreement between the Gouvernement du Québec and the
+California Air Resources Board concerning the harmonization of cap-and-
+trade programs for reducing greenhouse gas emissions";
+
+
+
+WHEREAS, the Gouvernement du Québec and the California Air Resources
+Board have agreed to terminate their 2013 "Agreement between the
+Gouvernement du Québec and the California Air Resources Board concerning
+the harmonization of cap-and-trade programs for reducing greenhouse gas
+emissions" in order to pursue the objectives of this Agreement, including
+entering into a new Agreement that also includes the Government of Ontario
+and that provides for other jurisdictions to enter into this Agreement;
+WHEREAS, the Parties are committed to harmonize and integrate their
+greenhouse gas emissions reporting programs and their cap-and-trade
+programs for reducing greenhouse gas emissions as well as to facilitate the
+inclusion of new. Parties to this Agreement;
+THEREFORE, to collaborate in the achievement of the Parties' respective
+goals in the fight against climate change through the harmonization and
+integration oftheir greenhouse gas emissions reporting programs and cap-and-
+trade programs for reducing greenhouse gas emissions,
+THE PARTIES AGREE TO THE FOLLOWING:
+CHAPTER I
+GENERAL PROVISIONS
+ARTICLE 1
+OBJECTIVE
+The objective of this Agreement is for the Parties to work jointly and
+collaboratively toward the harmonization and integration of the Parties'
+greenhouse gas emissions reporting programs and cap-and-trade programs for
+reducing greenhouse gas emissions.
+The intended outcome of the harmonization and integration is to enable each
+Party under its own statutory and regulatory authority to:
+a) achieve the harmonization of its regulation for reporting of
+greenhouse gas emissions and regulations for the cap-and-trade
+program such that the regulations will be compatible between
+the Parties;
+b) provide for the equivalence and interchangeability of compliance
+instruments issued by the Parties for the purpose of compliance
+with their respective cap-and-trade programs;
+C) develop and implement an accounting mechanism that provides
+for a transparent and data-driven calculation that attributes to
+each Party its portion of the total greenhouse gas emission
+reduction achieved jointly by the Parties' linked cap-and-trade
+programs, the results of which will be used to avoid double
+claiming of emission reductions by the Parties;
+
+
+
+d) permit the transfer and exchange of compliance instruments
+between participants registered with the Parties' respective cap-
+and-trade programs using a common secure registry;
+e) develop compatible market requirements that are applied and
+enforced for all participants registered in the Parties' respective
+cap-and-trade programs;
+allow for planning and holding joint auctions of compliance
+instruments;
+g) enable the sharing of information to support effective
+administration and enforcement of each party's statutes and
+regulations.
+The Parties shall report to the public annually on the status of achieving this
+objective.
+ARTICLE 2
+DEFINITIONS
+For the purposes of this Agreement:
+"Auction" means the process in which one Party sells a determined number of
+compliance instruments by offering them up for bid, taking bids, and then
+distributing the compliance instruments to winning bidders;
+"Auction platform" means the auction system used to conduct auctions;
+"Compliance instruments" means an instrument, issued by one of the
+Parties, that can be used by a covered entity or a voluntary participant to fulfill
+a compliance obligation and having a value corresponding to the emission of
+one metric ton of CO2 equivalent greenhouse gas;
+"Covered entity" means an entity with an obligation to surrender compliance
+instruments for its greenhouse gas emissions under a Party's statute and
+regulation(s) for the applicable cap-and-trade program for reducing
+greenhouse gas emissions;
+"Greenhouse gas" means carbon dioxide (CO2), methane (CH4), nitrous
+oxide (N20), hydrofluorocarbons (HFCS), perfluorocarbons (PFCS), sulphur
+hexafluoride (SF6) or nitrogen trifluoride (NF3), as well as other greenhouse
+gases publicly identified as such by the Parties' statutes and regulations;
+"Offset protocol" means a documented set ofj procedures and requirements to
+quantify ongoing greenhouse gas emission reductions, avoidances, removals
+or removal enhancements for an offset project as adopted by each Party;
+"Voluntary participant" means a person or entity whose voluntary
+registration creates the obligation to surrender compliance instruments for its
+greenhouse gas emissions under a Party's statute and regulation(s) for the
+applicable cap-and-trade program for reducing greenhouse gas emissions;
+
+
+
+"Market participant" means a person or an entity who does not report
+greenhouse gas emissions and is registered in the program registry and
+participates in one of the respective cap and trade programs for reducing
+greenhouse gas emissions;
+"Program" means a Party's cap-and-trade program for reducing greenhouse
+gas emissions, including offsets, and a Party's greenhouse gas emissions
+reporting program;
+"Program registry" means the data system in which covered entities and
+voluntary and market participants are registered, and in which compliance
+instruments are recorded and tracked;
+"Registered participant" means a covered entity or a voluntary or market
+participant who is registered in the Parties' program registry.
+CHAPTER II
+HARMONIZATION AND INTEGRATION PROCESS
+ARTICLE 3
+CONSULTATION PROCESS
+The Parties shall consult each other regularly and constructively to achieve the
+objective of this harmonization and integration Agreement. Consultation shall
+build on existing working relationships and shall enable Parties' staff to work
+constructively through workgroups under the direction of the Parties' officials.
+The procedural requirements of each Party shall be respected, including
+appropriate and effective openness and transparency of each Party's public
+consultations.
+The topics of the collaboration and the joint work shall include, but are not
+limited to, those of the articles in this chapter.
+ARTICLE 4
+REGULATORY HARMONIZATION
+The Parties shall continue to examine their respective regulations for the
+reporting of greenhouse gas emissions and for the cap-and-trade program in
+order to promote continued harmonization and integration of the Parties'
+programs.
+In the case where a difference between certain elements of the Parties'
+programs is identified, the Parties shall determine if such elements need to be
+harmonized for the proper functioning and integration of the programs. If so
+determined, the Parties shall consult each other regarding a harmonized
+approach.
+
+
+
+A Party may consider making changes to its respective programs, including
+changes or additions to its emissions reporting regulation, cap-and-trade
+program regulations, and program related operating procedures. To support
+the objective of harmonization and integration of the programs, any proposed
+changes or additions to those programs shall be discussed between the Parties.
+The Parties acknowledge that sufficient time is required to enable effective
+public review and comment prior to adoption. The Parties shall consult
+regarding changes that may affect the harmonization and integration process
+or have other impacts on any Parties. Each Party's public process for making
+program changes must be respected.
+In the event that program conditions arise that indicate a need for rapid or
+emergency program changes or other actions by one or all Parties, the Parties
+shall work to harmonize such changes to maintain harmonization and
+integration and to resolve the conditions.
+ARTICLE 5
+OFFSET PROTOCOLS
+In order to achieve harmonization and integration oft the Parties' cap-and-trade
+programs, the offset protocols in each of the Parties' programs require that all
+offset emission reductions, avoidances, removals or removal enhancements
+achieve the essential qualities of being real, additional, quantifiable,
+permanent, verifiable, and enforceable.
+A Party may consider making changes to the offset components of its
+program, including by adding additional offset protocols, or changing
+procedures for issuing offset credits. To support the objective of maintaining
+the harmonization and integration of the programs, any proposed changes
+shall be discussed between the Parties. The Parties acknowledge that sufficient
+time is required to enable effective public review and comment prior to
+adoption of any changes. The Parties shall consult regarding changes that may
+affect the harmonization and integration process or that may have other
+impacts on any Party. Each Party's public process for making program
+changes must be respected.
+ARTICLE 6
+MUTUAL RECOGNITION OF COMPLIANCE INSTRUMENTS
+In order to achieve harmonization and integration of the Parties' cap-and-trade
+programs, mutual recognition of the Parties' compliance instruments shall
+occur as provided for under their respective cap-and-trade program
+regulations.
+Ifal Party determines that a compliance instrument that it has issued should not
+have been issued or must be voided, it shall notify the other Parties. Each
+Party recognizes and respects the authority of the other Parties to take actions
+to recover or void compliance instruments that have been surrendered or that
+are held by registered participants.
+
+
+
+ARTICLE 7
+TRADE OF COMPLIANCE INSTRUMENTS
+In order to achieve harmonization and integration of the Parties' cap-and-trade
+programs, trading of compliance instruments among registered participants in
+the Parties' respective programs shall occur as provided for under their
+respective cap-and-trade program regulations.
+The Parties shall keep each other informed of any investigation, pertaining to
+but not limited to acts or omissions on the part of any of its registered
+participants or other persons regulated under the programs and any violation,
+penalty or fine, or decision rendered following such investigations.
+ARTICLE 8
+ACCOUNTING MECHANISM AND TREATMENT OF EMISSION
+REDUCTIONS
+In order to ensure clarity and transparency in how greenhouse gas reductions
+from cap-and-trade programs are counted toward each Party's emission
+reduction target, the Parties agree to develop and implement an accounting
+mechanism that provides a transparent and data-driven calculation that
+attributes to each Party its portion of the total greenhouse gas emission
+reduction achieved jointly by the Parties' linked cap-and-trade programs.
+The agreed upon accounting mechanism should achieve a high level of
+transparency and careful and secure management of confidential and market
+sensitive information in the Parties' cap-and-trade programs. The Parties will
+build on international principles and criteria, namely those pertaining to
+environmental integrity and robust accounting, with an emphasis on
+transparency and on avoiding double counting.
+The Parties recognize that to avoid double claiming of emission reductions,
+only the Party to which an emission reduction is attributed by the accounting
+mechanism can use that reduction when assessing its progress toward meeting
+its emission reduction target, and other Parties will appropriately recognize a
+corresponding opposite emission impact when assessing their progress toward
+meeting their respective emission reduction targets.
+The Parties acknowledge that when developing and implementing the
+accounting mechanism, each Party's applicable statutory and regulatory
+requirements will be respected.
+The Parties agree to periodic review of the accounting mechanism in response
+to the development of laws applicable to each Party or relevant national and
+international principles and criteria.
+
+
+
+ARTICLE 9
+JOINT AUCTIONS
+In order to achieve harmonization and integration of the Parties' cap-and-trade
+programs, the auctioning of compliance instruments by the Parties' respective
+programs shall occur jointly and in accordance with harmonized procedures
+developed by the Parties, as provided for under their respective cap-and-trade
+programs.
+ARTICLE 10
+COMMON PROGRAM REGISTRY AND AUCTION PLATFORMS
+The Parties shall work together to develop and use common electronic
+platforms in order to ensure program compatibility, integrity, and integration,
+including but not limited to a program registry platform and an auction
+platform.
+The common program registry and auction platforms shall be available in
+English and French and allow for recording and performing transactions in the
+currencies of each Party. The program registry and auction platforms shall
+conform to the requirements of the Parties' statutes, regulations and operating
+procedures.
+CHAPTER III
+OPERATION OF THE AGREEMENT
+ARTICLE 11
+SUPERVISION AND ENFORCEMENT
+The Parties shall work cooperatively to maintain market integrity, including
+preventing fraud, abuse and market manipulation and to ensure the reliability
+of the joint auction and their respective programs. The Parties shall work
+cooperatively in applying their respective program requirements governing the
+supervision of all transactions carried out among registered participants of
+each of the Parties and of any auction or reserve: sale.
+The Parties shall facilitate, in accordance with the privacy, and other statutes
+and regulations applicable in each of their jurisdictions and the provisions of
+article 15 hereunder, the sharing of information to support the effective
+administration and enforcement of each party's statutes and regulations.
+
+
+
+ARTICLE 12
+COORDINATED ADMINISTRATIVE AND TECHNICAL SUPPORT
+The Parties shall continue coordinating administrative and technical support
+through the WCI, Inc., an entity which was created to perform such services,
+including for the Parties.
+If one of the Parties wishes to consider approaches other than WCI, Inc. for
+coordinating any of the administrative and technical program support, it shall
+consult the other Parties with the objective ofjointly developing a harmonized
+approach.
+If one of the Parties wishes to use the services of a party other than WCI, Inc.
+for technical or administrative support, or services of another nature required
+for the development or the operation of common program registry and auction
+platforms, it shall consult the other Parties with the objective of jointly
+developing a harmonized approach.
+ARTICLE 13
+CONSULTATION COMMITTEE
+To facilitate the harmonization and integration process of the programs and
+the operation of the Agreement, the Parties shall create a Consultation
+Committee composed of one representative from each of the Parties. This
+Consultation Committee shall meet as needed to ensure timely and effective
+consultation in support of the objectives of this Agreement.
+The representatives of each Party on the consultation committee are presented
+in Annex 1.
+The Consultation Committee shall:
+a) monitor the implementation of all measures that are required for
+the effective harmonization and integration of the Parties'
+programs;
+b) recommend measures to improve the harmonization and
+integration of the Parties' programs, when needed; and
+c) address any other issues at the request of the Parties.
+The Consultation Committee shall receive and review updates from the Parties
+on each area of activity as needed under this Agreement in a timely manner. If
+the Consultation Committee identifies or becomes aware of differences
+between the Parties regarding how to maintain the harmonization and
+integration of their programs, the Consultation Committee shall undertake to
+resolve the differences in accordance with Article 20.
+
+
+
+CHAPTERdV
+MISCELLANEOUS PROVISIONS
+ARTICLE 14
+JURISDICTION
+The Parties acknowledge that this Agreement does not modify any existing
+statutes and regulations nor does it require or commit the Parties or their
+respective regulatory or statutory bodies to create new statutes or regulations
+in relation to this Agreement, and agree that the provisions of the Agreement
+shall not bei interpreted by the Parties as amending any agreement or provision
+of an agreement entered into or to be entered into by any Party.
+ARTICLE 15
+CONFIDENTIALITY OF INFORMATION
+To support and enhance the administration, including the analysis, operation
+and supervision, and the enforcement of the Parties' respective program
+requirements, the Parties shall jointly arrange to share information collected or
+developed under their respective programs. Nothing in this Agreement
+requires a Party to breach privacy or confidentiality obligations or
+requirements prohibiting the collection, use or disclosure of information to
+which it is bound under its own laws, nor compromise the security with which
+information is held, nor disclose confidential information such as
+commercially sensitive or personal information.
+When information is shared between the Parties, each Party shall undertake to
+protect the information they disclose and collect, in accordance with the
+privacy and other statutes and regulations applicable in each of their
+jurisdictions, and take all necessary measures to such end, particularly with
+respect to the mode of communication, use, control, management and
+destruction. Shared information is to be used solely for the purposes of
+meeting the objectives of this Agreement.
+Ifconfidential information must be communicated by a Party to a non-Party to
+this Agreement under a law or following a court order, it shall notify the other
+Parties as soon as possible.
+ARTICLE 16
+PUBLIC ANNOUNCEMENT
+The Parties shall keep each other informed in advance of any public
+announcement related to their respective programs.
+Any announcement concerning the harmonization or integration of the Parties'
+programs shall bej prepared and, if possible, made public jointly.
+
+
+
+CHAPTER V
+FINAL PROVISIONS
+ARTICLE 17
+WITHDRAWAL PROCEDURE
+A Party may withdraw from this Agreement by giving written notice of intent
+to withdraw to the other Parties. A Party that intends to withdraw from this
+Agreement shall endeavour to give 12 months notice of intent to withdraw to
+the other Parties. A Party that intends to withdraw from this Agreement shall
+endeavor to match the effective date of withdrawal with the end of a
+compliance period.
+Withdrawal from this Agreement does not end a Party's obligations under
+article 15 regarding confidentiality of information which continue to remain in
+effect.
+If a Party withdraws, the Agreement shall remain in force for the remaining
+Parties.
+ARTICLE 18
+AMENDMENTS
+Any amendment to this Agreement: shall be in writing and requires the consent
+of all Parties to the Agreement at the time of the amendment.
+An amendment that all Parties have agreed to and that has been authorized in
+accordance with the requirements of each Party shall constitute an integral
+part of this Agreement beginning on the date of its coming into force.
+ARTICLE 19
+ACCESSION
+Recognizing that the Parties welcome effective, timely, and meaningful action
+to reduce greenhouse gas emissions by other jurisdictions, a candidate Party
+may be added as a Party to the Agreement if the candidate Party has adopted a
+program that is harmonized and can be integrated with each of the Parties'
+programs, if all of the Parties to the Agreement agree to add the candidate
+Party by signing an Accession Amending Agreement and then the candidate
+Party agrees to become a party to the Agreement by signing an Instrument of
+Accession.
+To do so, the legal procedures required by each Party must be respected.
+The standard form ofthe Accession Amending Agreement and the Instrument
+of Accession that can be found in Annex 2 and Annex 3, respectively, shall be
+
+
+
+used. Once the Parties have signed an Accession Amending Agreement, the
+candidate Party shall sign an Instrument of Accession.
+ARTICLE 20
+RESOLUTION OF DIFFERENCES
+The Parties shall consult each other constructively to resolve differences that
+may arise regarding how to achieve the objective of harmonizing and
+integrating their programs.
+The Parties shall resolve differences by using and building on established
+working relationships, including enabling staff to work jointly through
+workgroups to develop proposed harmonized and integrated approaches for
+consideration by each Party. If approaches for resolving differences that are
+acceptable to the Parties cannot be developed in a timely manner through staff
+workgroups, the Parties shall constructively engage through the Consultation
+Committee, and if needed with additional officials of the Parties, or their
+designees. The Parties will endeavor to resolve differences in a timely manner,
+so that the harmonization and integration oft the programs can be maintained.
+ARTICLE 21
+COMMUNICATIONS
+The Parties agree to communicate on matters regarding this Agreement in
+writing and hand delivered or transmitted by telegram, fax, e-mail, messenger,
+courier or registered mail to the contact of the Party concerned (see Annex 1
+for contacts).
+Any change of address of one of the Parties or of the representatives
+designated in Annex 1 shall be notified to the other Parties.
+Each Party shall designate a contact to facilitate communications between the
+Parties on any matter covered by this Agreement. On the request of any Party,
+the contact shall identify the office or official responsible for the matter and
+assist, as necessary, in facilitating communication between the office or
+official and the requesting Party.
+ARTICLE 22
+COMING INTO FORCE AND DURATION OF THE AGREEMENT
+Each of the Parties shall notify all the other Parties as soon as possible after
+the Party has completed any procedures required for the Agreement's entry
+into force.
+The Agreement shall enter into full force and effect on the first day of the
+month following the date of receipt of notification from the last of the Parties
+informing the other Parties that any legally required measures have been
+completed.
+
+
+
+The Agreement may only be terminated by the written consent of all of the
+Parties. Termination of the Agreement shall be effective 12 months after the
+last ofthe Parties has provided its consent to the other Parties.
+Termination of this Agreement does not end a Party's obligations under
+Article 15 regarding the confidentiality of information, which continue to
+remain in effect.
+ARTICLE 23
+ANNEXES
+The Annexes to this Agreement constitute an integral part of this Agreement.
+The original English and French texts of this Agreement have the same legal
+force.
+
+
+
+FOR THE GOVERNMENT OF CALIFORNIA
+At Du a
+27,2017
+Edmunel 4
+Sroun
+Edmund G. Brown Jr.
+Governor ofCalifornia
+FOR THE GOVERNMENT OF ONTARIO 2
+At Guebec Cihy
+on Sept.22/7
+L / n
+Kathleen Wynne
+Premier ofOntarid
+FOR THE GOUVERNEMENT DU QUÉBEC
+At Quebec QLy on kpL22 2017
+Philippe Couillard
+Premier ministre du Québec
+2 Ontario withdrew as a party in June 2018. See United States V. California, 444 E Supp. 3d 1181,
+1189 (E.D. Cal. 2020) (discussing the withdrawal).

@@ -1,0 +1,220 @@
+MEMORANDUM OF UNDERSTANDING
+BETWEEN
+THE NEW ENERGY AND INDUSTRIAL TECHNOLOGY
+DEVELOPMENT ORGANIZATION
+OF JAPAN
+AND
+THE CALIFORNIA GOVERNOR'S OFFICE OF
+BUSINESS AND ECONOMIC DEVELOPMENT
+CONCERNING
+THE DEMONSTRATION PROJECT
+FOR ELECTRIC VEHICLE DRIVING BEHAVIOR
+IN CALIFORNIA
+1
+
+
+
+This Memorandum of Understanding (hereinafter referred to as "MOU") has been made
+to clarify agreements between the New Energy and Industrial Technology Development
+Organization of Japan (hereinafter referred to as "NEDO") and the California
+Governor's Office of Business and Economic Development (hereinafter referred to as
+"GO-BIZ"), (NEDO and GO-BIZ are hereinafter referred to singularly as "PARTY" and
+collectively as "PARTIES"), concerning the Demonstration Project for Electric Vehicle
+Driving Behavior in California (hereinafter referred to as "PROJECT).
+This MOU builds upon the original framework set forth in the Memorandum of
+Cooperation on climate change, renewable energy, trade and investment, vehicles, high
+speed rail and water between the Government of Japan and the State of California of
+the United States of America dated September 5, 2014 and supersedes the Letter of
+Intent for cooperation in a feasibility study between the PARTIES concerning the
+demonstration project for electric vehicle (hereinafter referred to as "EV") driving
+behavior in California dated October 14, 2014.
+The PARTIES hereby agree as follows:
+ARTICLE 1
+OBJECTIVE AND OUTLINE OF THE PROJECT
+1. The objective of the PROJECT is to demonstrate that it is possible to change EV
+driving behavior and that EVs are suitable for long-distance trips in order to promote
+EV use and thereby reduce greenhouse gas emissions, criteria pollutants, and fossil
+fuel use.
+2. The demonstration system for the PROJECT will consist of direct current fast
+chargers, other equipment, and system software that will be supplied by companies
+designated by NEDO.
+3. The PARTIES will make the results of the PROJECT publically available upon
+project completion. Initial data will be made available to GO-BIZ after NEDO has
+finished analyzing data collected from EVs and charging stations. GO-BIZ will share
+initial and on-going data with relevant State Agencies and Universities to help
+inform the State's DCFC planning process. Detailed timing of the data disclosure
+above mentioned will be determined based on mutual discussion and agreement of
+the PARTIES considering the status of DCFC deployment.
+4. The overall work plan and schedule for the PROJECT are set forth in Annex I,
+"Implementation Schedule for the PROJECT."
+ARTICLE 2
+WORK AND COST SHARING
+1. NEDO will entrust its work for implementing the PROJECT to Nissan Motor Co.,
+Ltd., Nissan North America, Inc., and Kanematsu Corporation (hereinafter
+2
+
+
+
+collectively referred to as "DESIGNATED COMPANIES").
+2. GO-BIZ will support NEDO and the DESIGNATED COMPANIES with permitting,
+siting, and state agency coordination during the implementation of the PROJECT,
+and will provide reasonably necessary information and supporting communication
+about the PROJECT.
+3. The PARTIES will periodically share information on the progress and results of the
+PROJECT.
+ARTICLE 3
+RESPONSIBILITY AND DAMAGES
+1. Notwithstanding any other provision in this MOU, the PARTIES shall each bear its
+own costs and expenses for its own work performed pursuant to this MOU. Further,
+any damage incurred as a result of work undertaken for the PROJECT shall be borne
+by each PARTY separately. Except as explicitly described herein, GO-Biz will provide
+staff time and cover relevant travel expenses for GO-Biz staff.
+2. Neither PARTY shall make a claim for compensation against the other PARTY in the
+event of any damage, injury, or loss oflife due to an accident, natural calamity, or any
+reason other than willful misconduct or gross negligence.
+ARTICLE 4
+INTELLECTUAL PROPERTY AND OPERATIONAL DATA
+1. The PARTIES acknowledge that any technologies, inventions, devices, works of
+authorship, know-how, and other results which are developed through the
+implementation of the PROJECT will be the exclusive property of the persons who
+developed them.
+2. No license is hereby granted in respect of any intellectual property rights, including
+information and data collected related to equipment and/or services for the
+PROJECT.
+ARTICLE 5
+CONFIDENTIALITY OF TECHNICAL INFORMATION AND
+DISCLOSURE OF PROJECT RESULTS
+1. The PARTIES will make non-proprietary/non-confidential data publically
+available. Expected non-proprietary/non confidential data include, but are not
+limited to, site-by-site aggregate statistics on charger utilization (e.g., sessions
+per day, duration, electricity dispensed) and impact on driver behavior (e.g.
+impact on range confidence and travel distances).
+3
+
+
+
+2. Neither PARTY shall disclose any technical documents (e.g. specification sheets,
+project drawings, etc.) or information obtained during the implementation of the
+PROJECT to a third party other than for the purpose of implementation of the
+PROJECT,
+3. Information to be treated as CONFIDENTIAL INFORMATION under this MOU
+shall be (a) clearly marked as "Confidential" or "Proprietary" or (b) if orally or
+visually disclosed, identified as confidential or proprietary at the time of the
+disclosure and reduced to writing and clearly marked as "Confidential" or
+"Proprietary" within thirty (30) days after the time of disclosure. For the purpose
+of this MOU, "CONFIDENTIAL INFORMATION" means all confidential and/or
+proprietary information (however recorded or preserved) disclosed by a PARTY or
+its advisers or contractors, including DESIGNATED COMPANIES in the case of
+NEDO being a PARTY, to the other PARTY whether before or after the date of
+this MOU in connection with the PROJECT.
+4. Non-confidential/non-proprietary information includes the following:
+3.1 Public Information. Information that is or becomes publicly known without
+the breach of this MOU.
+3.2 Already Known. Information that at the time of disclosure under this MOU is
+already known to the receiving PARTY without any restriction on its disclosure.
+3.3 Third Party Source. Information that is or subsequently comes into the
+possession of the receiving PARTY from a third party without violation of any
+contractual or legal obligation.
+3.4 Independently Developed. Information that is independently developed by
+the receiving PARTY without the use of CONFIDENTIAL INFORMATION or
+breach of this MOU.
+5. Public Records. NEDO acknowledges that GO-BIZ is subject to the California
+Public Records. Act (PRA) (Government Code section 6250 et. seq.). This MOU and
+materials submitted by NEDO to GO-Biz may be subject to a PRA request, except
+in the event that such documents submitted to GO-Biz are exempt under the PRA.
+In such an event, GO-Biz will notify the NEDO, as soon as practicable that a PRA
+request for the PROJECT: information has been received, but not less than five (5)
+business days prior to the release of the requested information to allow NEDO
+and DESIGNATED COMPANIES to seek an injunction. GO-Biz will work in good
+faith with the NEDO to protect the information to the extent an exemption is
+provided by law, including but not limited to notes, drafts, proprietary
+4
+
+
+
+information, financial information and trade secret information. GO-Biz will also
+apply the "balancing test" as provided for under Government Code section 6255 to
+the extent applicable.
+6. Except as provided in paragraph 5 of this Article 5, if a PARTY wishes to disclose
+confidential results ofthe PROJECT to a third party for any reason other than for
+the purpose of implementation of the PROJECT, the disclosing PARTY must
+obtain prior written consent from the other PARTY before any such disclosure can
+be made.
+7. The PARTIES agree that the provisions oft this article shall remain effective for a
+period of five (5) years after termination or expiration of this MOU.
+ARTICLE 6
+MUTUAL TRUST. AND CONSULTATION
+Any problems resulting from or anything unspecified in this MOU shall be resolved
+through amicable consultation, based on the principles of mutual benefit, equality,
+cooperation, and trust.
+ARTICLE 7
+AMENDMENT AND VALIDITY
+1. This MOU may be amended by mutual written agreement.
+2. This MOU shall be effective upon the date of its signing by both PARTIES and shall
+remain effective until June 30, 2020, but such expiration date will be automatically
+extended for a one (1) year period on the initial expiration date and on each
+anniversary date of the initial expiration date unless at least ninety (90) days prior
+to the then relevant expiration date either PARTY notifies the other PARTY in
+writing of its intention not to extend this MOU.
+3. Notwithstanding the expiration of the validity of this MOU as stipulated in the
+previous paragraph, the PARTIES may terminate this MOU or extend its validity by
+giving a sixty (60) days' prior written notice to terminate to the other PARTY and
+obtaining agreement with such other PARTY.
+4. Any formal notices or communication required or permitted to be given under this
+MOU shall be given in writing and shall be delivered (a) in person, (b) by certified
+mail, (c) by facsimile with confirmed receipt required, electronic communication with
+confirmed receipt required, or (d) by a reputable international courier that provides a
+receipt, and such notices shall be addressed as set forth below, or as the applicable
+party shall specify to the other party in writing at a later date:
+5
+
+
+
+New Energy and Industrial Technology Zero Emissions Vehicle Infrastructure
+Development Organization
+Project Manager
+18F Muza Kawasaki Central Tower,
+California Governor's Office of Business
+1310, Omiya-cho, Saiwai-ku, Kawasaki and Economic Development
+City, Kanagawa 212-8854 JAPAN
+1325 J Street
+Sacramento CA 95814
+zevinfrastructure@gov.ca.gov
+IN WITNESS WHEREOF, the PARTIES have executed two (2) originals of this MOU in
+the English language on the date indicated below, with each original being equally valid.
+The PARTIES shall each retain one (1) original.
+6
+
+
+
+Executed in Sacramento on September 10, 2015
+New Energy and Industrial Technology
+California Governor's Office of
+Development Organization
+Business and Economic Development
+Japan
+United States of America
+Hiroshi Kuniyoshi
+Panorea Avdis
+Executive Director
+Chief Deputy Director
+7
+
+
+
+ANNEX I
+Implementation Schedule*1 for the PROJECT
+Action Item
+2015 2016 2017 2018 2019 2020
+1. Deploying DC Fast chargers in
+inter-city area & monitor EV
+1 - 1. Planning & deployment of
+Chargers
+1 - 2. Requirements and needs
+research
+2. Deploying systems to promote
+inter-city DC Fast chargers.
+3. Building bus iness model
+4. Data analysis
+*1. This schedule is tentative and subject to change by NEDO.
+8

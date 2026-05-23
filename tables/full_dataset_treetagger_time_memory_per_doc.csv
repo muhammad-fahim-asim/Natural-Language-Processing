@@ -1,0 +1,299 @@
+doc_id,state,source_path,time_sec,py_peak_mem_mb,rss_before_mb,rss_after_mb,rss_delta_mb,had_error
+Alabama/Alabama_1,Alabama,d:\NLP_Project_tasks_6_8_11\OCR_output\Alabama\Alabama_1.txt,3.0820367000997066,0.04262256622314453,57.7421875,58.1875,0.4453125,False
+Alabama/Alabama_10,Alabama,d:\NLP_Project_tasks_6_8_11\OCR_output\Alabama\Alabama_10.txt,3.9790060999803245,0.21539020538330078,58.19140625,58.41015625,0.21875,False
+Alabama/Alabama_2,Alabama,d:\NLP_Project_tasks_6_8_11\OCR_output\Alabama\Alabama_2.txt,3.012539899908006,0.045998573303222656,58.42578125,58.44921875,0.0234375,False
+Alabama/Alabama_3,Alabama,d:\NLP_Project_tasks_6_8_11\OCR_output\Alabama\Alabama_3.txt,2.7406370998360217,0.04070854187011719,58.453125,58.47265625,0.01953125,False
+Alabama/Alabama_4,Alabama,d:\NLP_Project_tasks_6_8_11\OCR_output\Alabama\Alabama_4.txt,2.5754809000063688,0.043087005615234375,58.4765625,58.49609375,0.01953125,False
+Alabama/Alabama_5,Alabama,d:\NLP_Project_tasks_6_8_11\OCR_output\Alabama\Alabama_5.txt,2.631850400008261,0.06634998321533203,58.53125,58.55859375,0.02734375,False
+Alabama/Alabama_6,Alabama,d:\NLP_Project_tasks_6_8_11\OCR_output\Alabama\Alabama_6.txt,2.454819899983704,0.043114662170410156,58.55859375,58.578125,0.01953125,False
+Alabama/Alabama_7,Alabama,d:\NLP_Project_tasks_6_8_11\OCR_output\Alabama\Alabama_7.txt,2.327272600028664,0.03997230529785156,58.58203125,58.60546875,0.0234375,False
+Alabama/Alabama_8,Alabama,d:\NLP_Project_tasks_6_8_11\OCR_output\Alabama\Alabama_8.txt,2.605563700199127,0.044234275817871094,58.60546875,58.61328125,0.0078125,False
+Alabama/Alabama_9,Alabama,d:\NLP_Project_tasks_6_8_11\OCR_output\Alabama\Alabama_9.txt,2.6352057999465615,0.03994941711425781,58.6171875,58.62109375,0.00390625,False
+Alaska/Alaska_1,Alaska,d:\NLP_Project_tasks_6_8_11\OCR_output\Alaska\Alaska_1.txt,3.327850400004536,0.17507171630859375,58.62109375,58.78125,0.16015625,False
+Alaska/Alaska_10,Alaska,d:\NLP_Project_tasks_6_8_11\OCR_output\Alaska\Alaska_10.txt,2.8096564000006765,0.12393569946289062,58.7890625,58.8125,0.0234375,False
+Alaska/Alaska_11,Alaska,d:\NLP_Project_tasks_6_8_11\OCR_output\Alaska\Alaska_11.txt,2.209668700117618,0.03994941711425781,58.81640625,58.828125,0.01171875,False
+Alaska/Alaska_12,Alaska,d:\NLP_Project_tasks_6_8_11\OCR_output\Alaska\Alaska_12.txt,6.506549900164828,0.5515851974487305,58.828125,59.2578125,0.4296875,False
+Alaska/Alaska_2,Alaska,d:\NLP_Project_tasks_6_8_11\OCR_output\Alaska\Alaska_2.txt,2.6501217000186443,0.040564537048339844,59.26953125,59.26953125,0.0,False
+Alaska/Alaska_3,Alaska,d:\NLP_Project_tasks_6_8_11\OCR_output\Alaska\Alaska_3.txt,2.8033771999180317,0.08224773406982422,59.26953125,59.26953125,0.0,False
+Alaska/Alaska_4,Alaska,d:\NLP_Project_tasks_6_8_11\OCR_output\Alaska\Alaska_4.txt,3.0258810000959784,0.08516311645507812,59.26953125,59.48046875,0.2109375,False
+Alaska/Alaska_5,Alaska,d:\NLP_Project_tasks_6_8_11\OCR_output\Alaska\Alaska_5.txt,3.1353265000507236,0.10572528839111328,59.48046875,59.59375,0.11328125,False
+Alaska/Alaska_6,Alaska,d:\NLP_Project_tasks_6_8_11\OCR_output\Alaska\Alaska_6.txt,2.8446215000003576,0.11244869232177734,59.60546875,59.61328125,0.0078125,False
+Alaska/Alaska_7,Alaska,d:\NLP_Project_tasks_6_8_11\OCR_output\Alaska\Alaska_7.txt,2.831432699924335,0.0966806411743164,59.61328125,59.625,0.01171875,False
+Alaska/Alaska_8,Alaska,d:\NLP_Project_tasks_6_8_11\OCR_output\Alaska\Alaska_8.txt,2.707605900010094,0.06637096405029297,59.62890625,59.65625,0.02734375,False
+Alaska/Alaska_9,Alaska,d:\NLP_Project_tasks_6_8_11\OCR_output\Alaska\Alaska_9.txt,3.258602499961853,0.12228584289550781,59.65625,59.66015625,0.00390625,False
+Arizona/Arizona_1,Arizona,d:\NLP_Project_tasks_6_8_11\OCR_output\Arizona\Arizona_1.txt,2.506300900131464,0.053589820861816406,59.66015625,59.671875,0.01171875,False
+Arizona/Arizona_10,Arizona,d:\NLP_Project_tasks_6_8_11\OCR_output\Arizona\Arizona_10.txt,2.9148802999407053,0.06863594055175781,59.68359375,59.7109375,0.02734375,False
+Arizona/Arizona_11,Arizona,d:\NLP_Project_tasks_6_8_11\OCR_output\Arizona\Arizona_11.txt,3.250446300022304,0.0606536865234375,59.7109375,59.7265625,0.015625,False
+Arizona/Arizona_12,Arizona,d:\NLP_Project_tasks_6_8_11\OCR_output\Arizona\Arizona_12.txt,2.927958399988711,0.05712699890136719,59.7265625,59.734375,0.0078125,False
+Arizona/Arizona_13,Arizona,d:\NLP_Project_tasks_6_8_11\OCR_output\Arizona\Arizona_13.txt,2.5095894001424313,0.057450294494628906,59.7421875,59.7421875,0.0,False
+Arizona/Arizona_14,Arizona,d:\NLP_Project_tasks_6_8_11\OCR_output\Arizona\Arizona_14.txt,3.001494000200182,0.11272716522216797,59.7421875,59.76171875,0.01953125,True
+Arizona/Arizona_15,Arizona,d:\NLP_Project_tasks_6_8_11\OCR_output\Arizona\Arizona_15.txt,3.149391000159085,0.13645648956298828,59.76171875,59.765625,0.00390625,False
+Arizona/Arizona_16,Arizona,d:\NLP_Project_tasks_6_8_11\OCR_output\Arizona\Arizona_16.txt,3.65468390006572,0.23654842376708984,59.765625,59.77734375,0.01171875,False
+Arizona/Arizona_17,Arizona,d:\NLP_Project_tasks_6_8_11\OCR_output\Arizona\Arizona_17.txt,2.6000984001439065,0.06635284423828125,59.7890625,59.7890625,0.0,False
+Arizona/Arizona_2,Arizona,d:\NLP_Project_tasks_6_8_11\OCR_output\Arizona\Arizona_2.txt,2.7933082999661565,0.10783100128173828,59.79296875,59.8203125,0.02734375,False
+Arizona/Arizona_3,Arizona,d:\NLP_Project_tasks_6_8_11\OCR_output\Arizona\Arizona_3.txt,2.7554375000763685,0.10619258880615234,59.8203125,59.8203125,0.0,False
+Arizona/Arizona_4,Arizona,d:\NLP_Project_tasks_6_8_11\OCR_output\Arizona\Arizona_4.txt,2.5475504000205547,0.057562828063964844,59.82421875,59.82421875,0.0,False
+Arizona/Arizona_5,Arizona,d:\NLP_Project_tasks_6_8_11\OCR_output\Arizona\Arizona_5.txt,2.5949671999551356,0.07600021362304688,59.82421875,59.84375,0.01953125,False
+Arizona/Arizona_6,Arizona,d:\NLP_Project_tasks_6_8_11\OCR_output\Arizona\Arizona_6.txt,2.604289700044319,0.08335399627685547,59.84765625,59.84765625,0.0,False
+Arizona/Arizona_7,Arizona,d:\NLP_Project_tasks_6_8_11\OCR_output\Arizona\Arizona_7.txt,2.511041200021282,0.05306529998779297,59.84765625,59.84765625,0.0,False
+Arizona/Arizona_8,Arizona,d:\NLP_Project_tasks_6_8_11\OCR_output\Arizona\Arizona_8.txt,3.534052799921483,0.2206735610961914,59.84765625,59.86328125,0.015625,False
+Arizona/Arizona_9,Arizona,d:\NLP_Project_tasks_6_8_11\OCR_output\Arizona\Arizona_9.txt,2.5560249998234212,0.06413745880126953,59.8671875,59.87109375,0.00390625,False
+Arkansas/Arkansas_1,Arkansas,d:\NLP_Project_tasks_6_8_11\OCR_output\Arkansas\Arkansas_1.txt,2.655003499938175,0.06971263885498047,59.87109375,59.8828125,0.01171875,False
+Arkansas/Arkansas_10,Arkansas,d:\NLP_Project_tasks_6_8_11\OCR_output\Arkansas\Arkansas_10.txt,2.3315076001454145,0.039519309997558594,59.8828125,59.8828125,0.0,False
+Arkansas/Arkansas_2,Arkansas,d:\NLP_Project_tasks_6_8_11\OCR_output\Arkansas\Arkansas_2.txt,2.44431889988482,0.040244102478027344,59.8828125,59.88671875,0.00390625,False
+Arkansas/Arkansas_3,Arkansas,d:\NLP_Project_tasks_6_8_11\OCR_output\Arkansas\Arkansas_3.txt,2.317091600038111,0.0492401123046875,59.890625,59.890625,0.0,False
+Arkansas/Arkansas_4,Arkansas,d:\NLP_Project_tasks_6_8_11\OCR_output\Arkansas\Arkansas_4.txt,2.6659645999316126,0.07470417022705078,59.890625,59.90625,0.015625,False
+Arkansas/Arkansas_5,Arkansas,d:\NLP_Project_tasks_6_8_11\OCR_output\Arkansas\Arkansas_5.txt,3.022405599942431,0.07926082611083984,59.90625,59.91796875,0.01171875,False
+Arkansas/Arkansas_6,Arkansas,d:\NLP_Project_tasks_6_8_11\OCR_output\Arkansas\Arkansas_6.txt,2.69823360000737,0.039798736572265625,59.91796875,59.92578125,0.0078125,False
+Arkansas/Arkansas_7,Arkansas,d:\NLP_Project_tasks_6_8_11\OCR_output\Arkansas\Arkansas_7.txt,2.4228312999475747,0.040213584899902344,59.92578125,59.9296875,0.00390625,False
+Arkansas/Arkansas_8,Arkansas,d:\NLP_Project_tasks_6_8_11\OCR_output\Arkansas\Arkansas_8.txt,2.5224571998696774,0.04001331329345703,59.9296875,59.93359375,0.00390625,False
+Arkansas/Arkansas_9,Arkansas,d:\NLP_Project_tasks_6_8_11\OCR_output\Arkansas\Arkansas_9.txt,4.211492200149223,0.2943258285522461,59.93359375,59.94921875,0.015625,False
+California/1 (5),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1 (5).txt,3.394319900078699,0.20630359649658203,59.94921875,59.953125,0.00390625,False
+California/1 (CA - Chille),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1 (CA - Chille).txt,2.813877300126478,0.07059669494628906,105.74609375,105.74609375,0.0,False
+California/110242023,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\110242023.txt,2.8728716999758035,0.09960365295410156,105.74609375,105.7578125,0.01171875,False
+California/110252023,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\110252023.txt,2.912058599991724,0.10166263580322266,105.7578125,105.7578125,0.0,False
+California/110262023,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\110262023.txt,2.7349177000578493,0.08676624298095703,105.7578125,105.7578125,0.0,False
+California/110282023,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\110282023.txt,2.940059900050983,0.11672401428222656,105.7578125,105.7578125,0.0,False
+California/110292023,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\110292023.txt,2.9327126001007855,0.11171722412109375,105.7578125,105.7578125,0.0,False
+California/111102021,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\111102021.txt,2.514868800062686,0.04502391815185547,105.76171875,105.76171875,0.0,False
+California/11182021,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\11182021.txt,3.808336300076917,0.18879985809326172,105.76171875,105.76171875,0.0,False
+California/11212021,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\11212021.txt,2.760911599965766,0.09679985046386719,105.76171875,105.76171875,0.0,False
+California/112122022,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\112122022.txt,2.8417907000984997,0.0815887451171875,105.76171875,105.7734375,0.01171875,False
+California/1282023 (1),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1282023 (1).txt,3.244582600193098,0.12280941009521484,105.7734375,105.7734375,0.0,False
+California/1282023,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1282023.txt,3.1725306001026183,0.12276840209960938,105.7734375,105.7734375,0.0,False
+California/13112022,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\13112022.txt,2.7507759002037346,0.0918722152709961,105.7734375,105.77734375,0.00390625,False
+California/13142023,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\13142023.txt,3.1326272999867797,0.11309146881103516,105.77734375,105.77734375,0.0,False
+California/13212022,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\13212022.txt,3.2242602999322116,0.12086009979248047,105.77734375,105.7890625,0.01171875,False
+California/1352021,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1352021.txt,3.307156899943948,0.1328420639038086,105.7890625,105.8046875,0.015625,False
+California/1392021,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1392021.txt,2.984625699929893,0.13000774383544922,105.8046875,105.8046875,0.0,False
+California/1392022,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1392022.txt,2.8858058999758214,0.11501121520996094,105.8046875,105.8046875,0.0,False
+California/14182022,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\14182022.txt,2.917637800099328,0.10967445373535156,105.8046875,105.8046875,0.0,False
+California/14212023,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\14212023.txt,2.804390799952671,0.0962066650390625,105.8046875,105.8046875,0.0,False
+California/14282021,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\14282021.txt,3.128662000177428,0.14484691619873047,105.8046875,105.8046875,0.0,False
+California/15272022,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\15272022.txt,3.2238749999087304,0.14551830291748047,105.8046875,105.8046875,0.0,False
+California/1692022,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1692022.txt,3.2180725000798702,0.1336669921875,105.8046875,105.8046875,0.0,False
+California/18122021,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\18122021.txt,3.3104924999643117,0.16835594177246094,105.8046875,105.8046875,0.0,False
+California/1962022,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1962022.txt,3.6862908999901265,0.1945972442626953,105.8046875,105.8046875,0.0,False
+California/1April10 ( CA - China Provinces),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1April10 ( CA - China Provinces).txt,3.2390433000400662,0.051540374755859375,105.80859375,105.80859375,0.0,False
+California/1April14,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1April14.txt,2.5163140001241118,0.04056835174560547,105.80859375,105.80859375,0.0,False
+California/1April15,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1April15.txt,2.8135655999649316,0.039867401123046875,105.80859375,105.80859375,0.0,False
+California/1April17,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1April17.txt,2.472193199908361,0.04144573211669922,105.80859375,105.80859375,0.0,False
+California/1April19,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1April19.txt,2.4309042000677437,0.041716575622558594,105.8125,105.81640625,0.00390625,False
+California/1April30,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1April30.txt,2.9400467998348176,0.0916299819946289,105.8203125,105.8203125,0.0,False
+California/1April6 (CA - Catalonia),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1April6 (CA - Catalonia).txt,3.1920107998885214,0.1357097625732422,105.8203125,105.83203125,0.01171875,False
+California/1August11,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1August11.txt,3.0504678001161665,0.09323978424072266,105.83203125,105.83203125,0.0,False
+California/1August23,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1August23.txt,2.961343500064686,0.1155080795288086,105.8359375,105.8359375,0.0,False
+California/1August26,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1August26.txt,2.599062900058925,0.0718374252319336,105.84375,105.84375,0.0,False
+California/1December10,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1December10.txt,2.3762956999707967,0.05177021026611328,105.84375,105.84375,0.0,False
+California/1December18,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1December18.txt,2.424057399854064,0.049592018127441406,105.84375,105.84375,0.0,False
+California/1December21,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1December21.txt,2.778797199949622,0.06796073913574219,105.84375,105.84375,0.0,False
+California/1December4,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1December4.txt,2.602134799817577,0.05910778045654297,105.84375,105.8515625,0.0078125,False
+California/1December7 (1),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1December7 (1).txt,3.0169148999266326,0.10905265808105469,105.8515625,105.8515625,0.0,False
+California/1December7 (2),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1December7 (2).txt,2.730318399844691,0.054459571838378906,105.8515625,105.85546875,0.00390625,False
+California/1December7,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1December7.txt,3.2225957999471575,0.13196659088134766,105.85546875,105.85546875,0.0,False
+California/1February14,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1February14.txt,3.018194600008428,0.06600379943847656,105.85546875,105.85546875,0.0,False
+California/1February26,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1February26.txt,2.9519517000298947,0.0864410400390625,105.85546875,105.85546875,0.0,False
+California/1January30,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1January30.txt,2.720319300191477,0.08162498474121094,105.85546875,105.85546875,0.0,False
+California/1January9,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1January9.txt,2.659880699822679,0.06705665588378906,105.85546875,105.85546875,0.0,False
+California/1July12,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1July12.txt,2.473312099929899,0.03947734832763672,105.85546875,105.85546875,0.0,False
+California/1July29,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1July29.txt,2.6399212998803705,0.09132671356201172,105.85546875,105.85546875,0.0,False
+California/1July30 (1),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1July30 (1).txt,3.1838653997983783,0.08717632293701172,105.85546875,105.86328125,0.0078125,False
+California/1July30,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1July30.txt,2.7540516001172364,0.0399017333984375,105.86328125,105.86328125,0.0,False
+California/1July5,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1July5.txt,3.3470556000247598,0.22115802764892578,105.8671875,105.87109375,0.00390625,False
+California/1June1 (1),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1June1 (1).txt,3.2648454001173377,0.11960220336914062,105.87109375,105.8828125,0.01171875,False
+California/1June1,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1June1.txt,4.861106300028041,0.3277769088745117,105.8828125,105.8984375,0.015625,False
+California/1June14,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1June14.txt,4.780151200015098,0.29673194885253906,105.8984375,105.8984375,0.0,False
+California/1June24 (1),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1June24 (1).txt,3.016590500017628,0.10933399200439453,105.8984375,105.8984375,0.0,False
+California/1June26,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1June26.txt,3.022336400114,0.10730171203613281,105.8984375,105.8984375,0.0,False
+California/1June5,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1June5.txt,2.937050900189206,0.11528778076171875,105.8984375,105.8984375,0.0,False
+California/1June6,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1June6.txt,2.932460800046101,0.10132503509521484,105.8984375,105.8984375,0.0,False
+California/1June7 (1),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1June7 (1).txt,2.5039181001484394,0.04398155212402344,105.8984375,105.8984375,0.0,False
+California/1June7 (2),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1June7 (2).txt,2.7386350000742823,0.05862998962402344,105.8984375,105.8984375,0.0,False
+California/1June7,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1June7.txt,3.23754070000723,0.11580467224121094,105.8984375,105.8984375,0.0,False
+California/1June9,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1June9.txt,3.252211500192061,0.12090587615966797,105.8984375,105.8984375,0.0,False
+California/1March11,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1March11.txt,2.7362061999738216,0.07140731811523438,105.8984375,105.90234375,0.00390625,False
+California/1March15,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1March15.txt,3.985443100100383,0.29239654541015625,105.90234375,105.90234375,0.0,False
+California/1March28,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1March28.txt,2.706961499992758,0.07870674133300781,105.90234375,105.90234375,0.0,False
+California/1March5,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1March5.txt,2.474990699905902,0.045304298400878906,105.90234375,105.90234375,0.0,False
+California/1May11,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1May11.txt,2.3068123999983072,0.04026603698730469,105.90234375,105.90234375,0.0,False
+California/1May24,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1May24.txt,2.7366911000572145,0.05567646026611328,105.90234375,105.90234375,0.0,False
+California/1May25,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1May25.txt,2.674562100088224,0.061942100524902344,105.90234375,105.90234375,0.0,False
+California/1November11,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1November11.txt,3.168100800132379,0.07214069366455078,105.90234375,105.90234375,0.0,False
+California/1November12,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1November12.txt,2.4780912999995053,0.053114891052246094,105.90234375,105.90234375,0.0,False
+California/1November13,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1November13.txt,2.649632800137624,0.07277870178222656,105.90234375,105.90234375,0.0,False
+California/1November2 (1),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1November2 (1).txt,3.079207200091332,0.13594627380371094,105.90234375,105.90234375,0.0,False
+California/1November2,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1November2.txt,3.0492380999494344,0.11229324340820312,105.90234375,105.90234375,0.0,False
+California/1November7,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1November7.txt,2.6157619999721646,0.05942726135253906,105.90234375,105.90234375,0.0,False
+California/1November8,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1November8.txt,2.9721081000752747,0.0693502426147461,105.90234375,105.90234375,0.0,False
+California/1November9,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1November9.txt,2.6586391001474112,0.05369853973388672,105.90234375,105.90234375,0.0,False
+California/1October14,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1October14.txt,2.718673099996522,0.047034263610839844,105.90234375,105.90234375,0.0,False
+California/1October2 (1),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1October2 (1).txt,2.6735829000826925,0.08970355987548828,105.91015625,105.91015625,0.0,False
+California/1October2,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1October2.txt,2.911065199878067,0.09576129913330078,105.91015625,105.91015625,0.0,False
+California/1October28 (1),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1October28 (1).txt,3.0524580001365393,0.1361989974975586,105.91015625,105.91015625,0.0,False
+California/1October28,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1October28.txt,3.0855546998791397,0.0925455093383789,105.91015625,105.91015625,0.0,False
+California/1October3,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1October3.txt,3.5600060999859124,0.22126007080078125,105.91015625,105.91015625,0.0,False
+California/1October31,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1October31.txt,2.7878572999034077,0.10254573822021484,105.91015625,105.91015625,0.0,False
+California/1October4 (1),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1October4 (1).txt,2.886396100046113,0.10428714752197266,105.91015625,105.91015625,0.0,False
+California/1October4,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1October4.txt,2.8098137001506984,0.10941791534423828,105.91015625,105.91015625,0.0,False
+California/1October5,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1October5.txt,2.449409200111404,0.053592681884765625,105.91015625,105.91015625,0.0,False
+California/1September10 (1),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1September10 (1).txt,2.8113736000377685,0.11761093139648438,105.91015625,105.91015625,0.0,False
+California/1September10,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1September10.txt,2.8538931999355555,0.12688350677490234,105.91015625,105.91015625,0.0,False
+California/1September12,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1September12.txt,2.323767399881035,0.040495872497558594,105.91015625,105.91015625,0.0,False
+California/1September15 (1),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1September15 (1).txt,2.550304700154811,0.06145191192626953,105.91015625,105.91796875,0.0078125,False
+California/1September15 (2),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1September15 (2).txt,2.673797400202602,0.07558917999267578,105.91796875,105.91796875,0.0,False
+California/1September15,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1September15.txt,2.519227100070566,0.0513153076171875,105.91796875,105.91796875,0.0,False
+California/1September19,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1September19.txt,2.7447987999767065,0.0664529800415039,105.91796875,105.91796875,0.0,False
+California/1September22 (1),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1September22 (1).txt,2.6943586000707,0.08197784423828125,105.91796875,105.91796875,0.0,False
+California/1September22 (2),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1September22 (2).txt,2.60312580014579,0.06833362579345703,105.91796875,105.91796875,0.0,False
+California/1September29,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1September29.txt,2.4784866999834776,0.04186058044433594,105.91796875,105.91796875,0.0,False
+California/1Undated (1),California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1Undated (1).txt,3.0015181000344455,0.09479904174804688,105.91796875,105.91796875,0.0,False
+California/1Undated,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\1Undated.txt,2.673408600036055,0.05547904968261719,105.91796875,105.91796875,0.0,False
+California/California_1,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\California_1.txt,2.876452799886465,0.06897544860839844,105.921875,105.921875,0.0,False
+California/California_10,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\California_10.txt,3.5126418001018465,0.1725292205810547,105.921875,105.921875,0.0,False
+California/California_11,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\California_11.txt,2.4157870998606086,0.0671234130859375,105.921875,105.921875,0.0,False
+California/California_12,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\California_12.txt,2.9040908999741077,0.11868476867675781,105.921875,105.92578125,0.00390625,False
+California/California_13,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\California_13.txt,2.9580715999472886,0.12086296081542969,105.92578125,105.93359375,0.0078125,False
+California/California_14,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\California_14.txt,2.8026682999916375,0.08374595642089844,105.93359375,105.93359375,0.0,False
+California/California_15,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\California_15.txt,2.9039003001526,0.09196853637695312,105.93359375,105.93359375,0.0,False
+California/California_16,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\California_16.txt,5.143140899948776,0.4548072814941406,105.93359375,106.1328125,0.19921875,False
+California/California_2,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\California_2.txt,2.6467588001396507,0.06158256530761719,106.1328125,106.1328125,0.0,False
+California/California_3,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\California_3.txt,2.8910615001805127,0.11701583862304688,106.1328125,106.1328125,0.0,False
+California/California_4,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\California_4.txt,2.5841359000187367,0.06562519073486328,106.1328125,106.1328125,0.0,False
+California/California_5,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\California_5.txt,4.03818150004372,0.32654285430908203,106.1328125,106.13671875,0.00390625,False
+California/California_6,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\California_6.txt,2.5474378999788314,0.04996776580810547,106.13671875,106.13671875,0.0,False
+California/California_7,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\California_7.txt,2.734478200087324,0.05214118957519531,106.13671875,106.14453125,0.0078125,False
+California/California_8,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\California_8.txt,2.7795313000679016,0.1062784194946289,106.14453125,106.14453125,0.0,False
+California/California_9,California,d:\NLP_Project_tasks_6_8_11\OCR_output\California\California_9.txt,2.586347399977967,0.040230751037597656,106.14453125,106.14453125,0.0,False
+Connecticut/Connecticut_1,Connecticut,d:\NLP_Project_tasks_6_8_11\OCR_output\Connecticut\Connecticut_1.txt,2.8951413999311626,0.10263633728027344,106.14453125,106.1484375,0.00390625,False
+Connecticut/Connecticut_6,Connecticut,d:\NLP_Project_tasks_6_8_11\OCR_output\Connecticut\Connecticut_6.txt,3.177445499924943,0.18007659912109375,106.1484375,106.1484375,0.0,False
+Hawaii/Hawaii_10,Hawaii,d:\NLP_Project_tasks_6_8_11\OCR_output\Hawaii\Hawaii_10.txt,2.3114833999425173,0.04044532775878906,106.1484375,106.1484375,0.0,False
+Hawaii/Hawaii_14,Hawaii,d:\NLP_Project_tasks_6_8_11\OCR_output\Hawaii\Hawaii_14.txt,2.2264177000615746,0.040287017822265625,106.1484375,106.1796875,0.03125,False
+Hawaii/Hawaii_35,Hawaii,d:\NLP_Project_tasks_6_8_11\OCR_output\Hawaii\Hawaii_35.txt,2.1974464000668377,0.040615081787109375,106.1796875,106.1796875,0.0,False
+Hawaii/Hawaii_37,Hawaii,d:\NLP_Project_tasks_6_8_11\OCR_output\Hawaii\Hawaii_37.txt,2.357843100093305,0.039798736572265625,106.1796875,106.1796875,0.0,False
+Idaho/Idaho_1,Idaho,d:\NLP_Project_tasks_6_8_11\OCR_output\Idaho\Idaho_1.txt,2.9340992998331785,0.03952503204345703,106.1796875,106.1796875,0.0,False
+Illinois/Illinois_6,Illinois,d:\NLP_Project_tasks_6_8_11\OCR_output\Illinois\Illinois_6.txt,2.5182427000254393,0.03975868225097656,106.1796875,106.1796875,0.0,False
+Indiana/Indiana_2,Indiana,d:\NLP_Project_tasks_6_8_11\OCR_output\Indiana\Indiana_2.txt,2.4338122000917792,0.040462493896484375,106.1796875,106.1796875,0.0,False
+Indiana/Indiana_5,Indiana,d:\NLP_Project_tasks_6_8_11\OCR_output\Indiana\Indiana_5.txt,2.724177800118923,0.06103706359863281,106.1796875,106.18359375,0.00390625,False
+Indiana/Indiana_7,Indiana,d:\NLP_Project_tasks_6_8_11\OCR_output\Indiana\Indiana_7.txt,3.202745000133291,0.0396881103515625,106.18359375,106.18359375,0.0,False
+Maine/Maine_20,Maine,d:\NLP_Project_tasks_6_8_11\OCR_output\Maine\Maine_20.txt,4.390380699886009,0.18137550354003906,106.18359375,106.18359375,0.0,False
+Maryland/Maryland_10,Maryland,d:\NLP_Project_tasks_6_8_11\OCR_output\Maryland\Maryland_10.txt,3.3913797000423074,0.040271759033203125,106.18359375,106.18359375,0.0,False
+Maryland/Maryland_55,Maryland,d:\NLP_Project_tasks_6_8_11\OCR_output\Maryland\Maryland_55.txt,5.2833785999100655,0.04041862487792969,106.18359375,106.18359375,0.0,False
+Maryland/Maryland_56,Maryland,d:\NLP_Project_tasks_6_8_11\OCR_output\Maryland\Maryland_56.txt,5.897794699994847,0.03958415985107422,106.18359375,106.18359375,0.0,False
+Maryland/Maryland_70,Maryland,d:\NLP_Project_tasks_6_8_11\OCR_output\Maryland\Maryland_70.txt,7.01375830010511,0.040320396423339844,106.18359375,106.18359375,0.0,False
+Massachusetts/Massachusetts_26,Massachusetts,d:\NLP_Project_tasks_6_8_11\OCR_output\Massachusetts\Massachusetts_26.txt,8.230611499864608,0.1813955307006836,106.18359375,106.18359375,0.0,False
+Michigan/Michigan_1,Michigan,d:\NLP_Project_tasks_6_8_11\OCR_output\Michigan\Michigan_1.txt,4.112125899875537,0.23787975311279297,106.18359375,106.18359375,0.0,False
+Michigan/Michigan_3,Michigan,d:\NLP_Project_tasks_6_8_11\OCR_output\Michigan\Michigan_3.txt,3.7807467998936772,0.24138927459716797,106.18359375,106.18359375,0.0,False
+Michigan/Michigan_6,Michigan,d:\NLP_Project_tasks_6_8_11\OCR_output\Michigan\Michigan_6.txt,2.4551236999686807,0.04042243957519531,106.18359375,106.1875,0.00390625,False
+Michigan/Michigan_9,Michigan,d:\NLP_Project_tasks_6_8_11\OCR_output\Michigan\Michigan_9.txt,3.9211365000810474,0.2852926254272461,106.1875,106.1875,0.0,False
+Minnesota/Minesota_4,Minnesota,d:\NLP_Project_tasks_6_8_11\OCR_output\Minnesota\Minesota_4.txt,2.382030699867755,0.03979969024658203,106.1875,106.1875,0.0,False
+Minnesota/Minesota_6,Minnesota,d:\NLP_Project_tasks_6_8_11\OCR_output\Minnesota\Minesota_6.txt,3.900645599933341,0.2774782180786133,106.1875,106.1875,0.0,False
+New Hampshire/NewHempshire_3,New Hampshire,d:\NLP_Project_tasks_6_8_11\OCR_output\New Hampshire\NewHempshire_3.txt,3.3909940000157803,0.18182659149169922,106.1875,106.1875,0.0,False
+New Jersey/NewJersey_9,New Jersey,d:\NLP_Project_tasks_6_8_11\OCR_output\New Jersey\NewJersey_9.txt,2.9411033999640495,0.11841583251953125,106.1875,106.1875,0.0,False
+New York/NewYork_1,New York,d:\NLP_Project_tasks_6_8_11\OCR_output\New York\NewYork_1.txt,2.991808299906552,0.10629749298095703,106.1875,106.19140625,0.00390625,False
+New York/NewYork_32,New York,d:\NLP_Project_tasks_6_8_11\OCR_output\New York\NewYork_32.txt,3.2398798000067472,0.18017101287841797,106.19140625,106.19140625,0.0,False
+New York/NewYork_4,New York,d:\NLP_Project_tasks_6_8_11\OCR_output\New York\NewYork_4.txt,2.337703400058672,0.039757728576660156,106.19140625,106.19140625,0.0,False
+North Carolina/NorthCarolina_18,North Carolina,d:\NLP_Project_tasks_6_8_11\OCR_output\North Carolina\NorthCarolina_18.txt,2.7597367998678237,0.052277565002441406,106.2421875,106.25,0.0078125,False
+North Carolina/NorthCarolina_7,North Carolina,d:\NLP_Project_tasks_6_8_11\OCR_output\North Carolina\NorthCarolina_7.txt,2.598054900066927,0.04213142395019531,106.25,106.25,0.0,False
+Ohio/Ohio_1,Ohio,d:\NLP_Project_tasks_6_8_11\OCR_output\Ohio\Ohio_1.txt,2.427597099915147,0.03996849060058594,106.25,106.25390625,0.00390625,False
+Ohio/Ohio_2,Ohio,d:\NLP_Project_tasks_6_8_11\OCR_output\Ohio\Ohio_2.txt,2.477724099997431,0.03960227966308594,106.25390625,106.25390625,0.0,False
+Ohio/Ohio_3,Ohio,d:\NLP_Project_tasks_6_8_11\OCR_output\Ohio\Ohio_3.txt,2.3427826000843197,0.03980731964111328,106.25390625,106.25390625,0.0,False
+Ohio/Ohio_7,Ohio,d:\NLP_Project_tasks_6_8_11\OCR_output\Ohio\Ohio_7.txt,2.191409599967301,0.040411949157714844,106.25390625,106.25390625,0.0,False
+Ohio/Ohio_8,Ohio,d:\NLP_Project_tasks_6_8_11\OCR_output\Ohio\Ohio_8.txt,2.310633199987933,0.039855003356933594,106.25390625,106.25390625,0.0,False
+Oregon/Oregon_13,Oregon,d:\NLP_Project_tasks_6_8_11\OCR_output\Oregon\Oregon_13.txt,4.704245300032198,0.3376598358154297,106.25390625,106.3984375,0.14453125,False
+Pennsylvania/Pennsylvania_20,Pennsylvania,d:\NLP_Project_tasks_6_8_11\OCR_output\Pennsylvania\Pennsylvania_20.txt,5.309703500010073,0.29687976837158203,106.3984375,106.4140625,0.015625,False
+Pennsylvania/Pennsylvania_8,Pennsylvania,d:\NLP_Project_tasks_6_8_11\OCR_output\Pennsylvania\Pennsylvania_8.txt,2.734981399960816,0.040497779846191406,106.4140625,106.4140625,0.0,False
+Rhode Island/RhodeIsland_7,Rhode Island,d:\NLP_Project_tasks_6_8_11\OCR_output\Rhode Island\RhodeIsland_7.txt,3.617700100177899,0.18089771270751953,106.4140625,106.4140625,0.0,False
+Texas/Texas_1,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_1.txt,2.750942600192502,0.04718303680419922,106.4140625,106.4140625,0.0,False
+Texas/Texas_10,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_10.txt,9.711654599988833,0.3067169189453125,106.4140625,106.4140625,0.0,False
+Texas/Texas_11,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_11.txt,3.0285644000396132,0.03947639465332031,106.4140625,106.4140625,0.0,False
+Texas/Texas_12,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_12.txt,6.499308499973267,0.3905506134033203,106.4140625,106.4140625,0.0,True
+Texas/Texas_13,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_13.txt,3.4510003000032157,0.0881662368774414,106.4140625,106.4140625,0.0,False
+Texas/Texas_14,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_14.txt,3.5817440000828356,0.222442626953125,106.4140625,106.4140625,0.0,False
+Texas/Texas_15,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_15.txt,2.5632708000484854,0.04046154022216797,106.4140625,106.4140625,0.0,False
+Texas/Texas_16,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_16.txt,2.4155337000265718,0.03981208801269531,106.4140625,106.4140625,0.0,False
+Texas/Texas_17,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_17.txt,2.444227300118655,0.03975677490234375,106.4140625,106.4140625,0.0,False
+Texas/Texas_18,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_18.txt,2.501603400101885,0.039653778076171875,106.4140625,106.4140625,0.0,False
+Texas/Texas_19,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_19.txt,2.411454299930483,0.04888916015625,106.4140625,106.41796875,0.00390625,True
+Texas/Texas_2,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_2.txt,2.739821699913591,0.09695816040039062,106.42578125,106.42578125,0.0,False
+Texas/Texas_20,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_20.txt,2.638178699882701,0.04694652557373047,106.42578125,106.42578125,0.0,False
+Texas/Texas_21,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_21.txt,2.453667600173503,0.041698455810546875,106.42578125,106.42578125,0.0,False
+Texas/Texas_22,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_22.txt,3.975603000028059,0.2575368881225586,106.42578125,106.42578125,0.0,False
+Texas/Texas_23,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_23.txt,2.7386749000288546,0.041708946228027344,106.42578125,106.42578125,0.0,False
+Texas/Texas_24,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_24.txt,4.131984999869019,0.15494441986083984,106.42578125,106.42578125,0.0,False
+Texas/Texas_25,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_25.txt,4.116526699857786,0.06879138946533203,106.42578125,97.76953125,-8.65625,False
+Texas/Texas_26,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_26.txt,4.972387299872935,0.04446887969970703,97.76953125,93.44921875,-4.3203125,False
+Texas/Texas_27,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_27.txt,4.988705399911851,0.04305458068847656,93.44921875,93.44921875,0.0,False
+Texas/Texas_28,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_28.txt,4.114345000125468,0.045395851135253906,93.44921875,90.89453125,-2.5546875,False
+Texas/Texas_29,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_29.txt,4.022681300062686,0.05294322967529297,90.89453125,89.59375,-1.30078125,False
+Texas/Texas_3,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_3.txt,3.4197145998477936,0.05548858642578125,89.6015625,89.6015625,0.0,False
+Texas/Texas_30,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_30.txt,2.6466546999290586,0.03977489471435547,89.60546875,89.61328125,0.0078125,False
+Texas/Texas_31,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_31.txt,3.4477190000470728,0.04159355163574219,89.61328125,89.61328125,0.0,False
+Texas/Texas_32,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_32.txt,2.5560647000093013,0.039630889892578125,89.61328125,89.61328125,0.0,False
+Texas/Texas_33,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_33.txt,2.585446499986574,0.051532745361328125,89.61328125,89.61328125,0.0,False
+Texas/Texas_34,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_34.txt,2.496040599886328,0.043761253356933594,89.61328125,89.61328125,0.0,False
+Texas/Texas_35,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_35.txt,2.545725299976766,0.04229927062988281,89.61328125,89.61328125,0.0,False
+Texas/Texas_36,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_36.txt,2.402610900113359,0.04102039337158203,89.61328125,89.61328125,0.0,False
+Texas/Texas_37,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_37.txt,2.511327899992466,0.04294013977050781,89.61328125,89.6171875,0.00390625,False
+Texas/Texas_38,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_38.txt,2.549849199829623,0.05026435852050781,89.62109375,89.62109375,0.0,False
+Texas/Texas_39,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_39.txt,2.619961000047624,0.040947914123535156,89.62109375,89.62109375,0.0,False
+Texas/Texas_4,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_4.txt,2.8478233001660556,0.043457984924316406,89.62109375,89.62109375,0.0,False
+Texas/Texas_40,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_40.txt,2.5231902999803424,0.046530723571777344,89.62109375,89.625,0.00390625,False
+Texas/Texas_41,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_41.txt,2.5289982999674976,0.07449531555175781,89.6328125,89.63671875,0.00390625,False
+Texas/Texas_42,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_42.txt,2.3802839000709355,0.03979778289794922,89.63671875,89.640625,0.00390625,False
+Texas/Texas_43,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_43.txt,2.374947400065139,0.04136466979980469,89.640625,89.64453125,0.00390625,False
+Texas/Texas_44,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_44.txt,3.779867400182411,0.2642478942871094,89.64453125,89.7109375,0.06640625,False
+Texas/Texas_45,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_45.txt,2.537460899911821,0.06299781799316406,89.7109375,89.73828125,0.02734375,False
+Texas/Texas_46,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_46.txt,2.317402600077912,0.040531158447265625,89.73828125,89.73828125,0.0,False
+Texas/Texas_47,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_47.txt,2.505834999959916,0.06333255767822266,89.73828125,89.73828125,0.0,False
+Texas/Texas_48,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_48.txt,2.290176499867812,0.03966522216796875,89.73828125,89.7421875,0.00390625,False
+Texas/Texas_49,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_49.txt,2.257690600119531,0.041306495666503906,89.7421875,89.7421875,0.0,False
+Texas/Texas_5,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_5.txt,2.5304760998114944,0.06148815155029297,89.7421875,89.7421875,0.0,False
+Texas/Texas_50,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_50.txt,2.5285192001610994,0.040248870849609375,89.7421875,89.75,0.0078125,False
+Texas/Texas_51,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_51.txt,2.448383599985391,0.04456138610839844,89.75,89.75,0.0,False
+Texas/Texas_52,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_52.txt,2.4785041001159698,0.043033599853515625,89.75,89.75,0.0,False
+Texas/Texas_53,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_53.txt,2.5524974002037197,0.043738365173339844,89.75,89.75390625,0.00390625,False
+Texas/Texas_54,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_54.txt,2.6398313001263887,0.04212379455566406,89.75390625,89.75390625,0.0,False
+Texas/Texas_6,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_6.txt,2.933558600023389,0.066650390625,89.75390625,89.75390625,0.0,False
+Texas/Texas_7,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_7.txt,2.8204809001181275,0.10807228088378906,89.75390625,89.75390625,0.0,False
+Texas/Texas_8,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_8.txt,3.185562700033188,0.09258747100830078,89.7578125,89.7578125,0.0,False
+Texas/Texas_9,Texas,d:\NLP_Project_tasks_6_8_11\OCR_output\Texas\Texas_9.txt,2.629678700119257,0.03994941711425781,89.7578125,89.7578125,0.0,False
+Utah/Utah_1,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_1.txt,2.5165631999261677,0.040904998779296875,89.7578125,89.7578125,0.0,False
+Utah/Utah_10,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_10.txt,2.725207299925387,0.07681560516357422,89.76171875,89.765625,0.00390625,False
+Utah/Utah_11,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_11.txt,2.7718223000410944,0.03979682922363281,89.765625,89.765625,0.0,False
+Utah/Utah_12,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_12.txt,3.5073023000732064,0.18178749084472656,89.765625,89.765625,0.0,False
+Utah/Utah_13,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_13.txt,2.584301399998367,0.04583740234375,89.765625,89.765625,0.0,False
+Utah/Utah_14,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_14.txt,2.7346101000439376,0.0709228515625,89.76953125,89.8046875,0.03515625,False
+Utah/Utah_15,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_15.txt,3.032743499847129,0.09042072296142578,89.8046875,89.8046875,0.0,False
+Utah/Utah_16,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_16.txt,2.5633542998693883,0.08246326446533203,89.8046875,89.8046875,0.0,False
+Utah/Utah_17,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_17.txt,2.7342308999504894,0.08989620208740234,89.8125,89.8125,0.0,False
+Utah/Utah_18,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_18.txt,2.9159054001793265,0.10481452941894531,89.81640625,89.81640625,0.0,False
+Utah/Utah_19,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_19.txt,3.088208500063047,0.13638687133789062,89.81640625,89.8203125,0.00390625,False
+Utah/Utah_2,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_2.txt,2.6452703999821097,0.07403373718261719,89.82421875,89.59765625,-0.2265625,False
+Utah/Utah_20,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_20.txt,2.4296842999756336,0.04566383361816406,89.59765625,89.6015625,0.00390625,False
+Utah/Utah_21,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_21.txt,2.5886784999165684,0.0395965576171875,89.6015625,89.6015625,0.0,False
+Utah/Utah_22,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_22.txt,2.471220900071785,0.040297508239746094,89.6015625,89.609375,0.0078125,False
+Utah/Utah_3,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_3.txt,2.669115799944848,0.06748390197753906,89.609375,89.61328125,0.00390625,False
+Utah/Utah_4,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_4.txt,2.614664499880746,0.056099891662597656,89.61328125,89.6171875,0.00390625,False
+Utah/Utah_5,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_5.txt,2.5835198999848217,0.04022216796875,89.6171875,89.6171875,0.0,False
+Utah/Utah_6,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_6.txt,3.065855900058523,0.1373729705810547,89.6171875,89.6328125,0.015625,False
+Utah/Utah_7,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_7.txt,3.8724949001334608,0.054038047790527344,89.6328125,89.6328125,0.0,False
+Utah/Utah_8,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_8.txt,2.5795891999732703,0.03952503204345703,89.6328125,89.6328125,0.0,False
+Utah/Utah_9,Utah,d:\NLP_Project_tasks_6_8_11\OCR_output\Utah\Utah_9.txt,2.553790000034496,0.041359901428222656,89.63671875,89.63671875,0.0,False
+Vermont/Vermont_10,Vermont,d:\NLP_Project_tasks_6_8_11\OCR_output\Vermont\Vermont_10.txt,2.878143599955365,0.0674295425415039,89.63671875,89.63671875,0.0,False
+Vermont/Vermont_11,Vermont,d:\NLP_Project_tasks_6_8_11\OCR_output\Vermont\Vermont_11.txt,2.9590131998993456,0.1246795654296875,89.63671875,89.63671875,0.0,False
+Vermont/Vermont_12,Vermont,d:\NLP_Project_tasks_6_8_11\OCR_output\Vermont\Vermont_12.txt,3.3815208999440074,0.18023204803466797,89.63671875,89.65234375,0.015625,False
+Vermont/Vermont_13,Vermont,d:\NLP_Project_tasks_6_8_11\OCR_output\Vermont\Vermont_13.txt,2.30547589994967,0.04036712646484375,89.65234375,89.65234375,0.0,False
+Vermont/Vermont_14,Vermont,d:\NLP_Project_tasks_6_8_11\OCR_output\Vermont\Vermont_14.txt,2.552406599977985,0.04146862030029297,89.65234375,89.65234375,0.0,False
+Vermont/Vermont_15,Vermont,d:\NLP_Project_tasks_6_8_11\OCR_output\Vermont\Vermont_15.txt,2.551822300069034,0.058045387268066406,89.65234375,89.65234375,0.0,False
+Vermont/Vermont_2,Vermont,d:\NLP_Project_tasks_6_8_11\OCR_output\Vermont\Vermont_2.txt,2.273674000054598,0.040340423583984375,89.65234375,89.65234375,0.0,False
+Vermont/Vermont_6,Vermont,d:\NLP_Project_tasks_6_8_11\OCR_output\Vermont\Vermont_6.txt,5.373339500045404,0.4550333023071289,89.65234375,89.9453125,0.29296875,False
+Vermont/Vermont_7,Vermont,d:\NLP_Project_tasks_6_8_11\OCR_output\Vermont\Vermont_7.txt,4.001850199885666,0.2513294219970703,89.9453125,89.98828125,0.04296875,False
+Vermont/Vermont_8,Vermont,d:\NLP_Project_tasks_6_8_11\OCR_output\Vermont\Vermont_8.txt,2.5778907998465,0.04228973388671875,89.9921875,89.9921875,0.0,False
+Vermont/Vermont_9,Vermont,d:\NLP_Project_tasks_6_8_11\OCR_output\Vermont\Vermont_9.txt,2.3265688999090344,0.0440826416015625,89.9921875,89.9921875,0.0,False
+Virginia/Virgina_1,Virginia,d:\NLP_Project_tasks_6_8_11\OCR_output\Virginia\Virgina_1.txt,2.1490873999428004,0.039798736572265625,89.9921875,89.9921875,0.0,False
+Washington/Washington_17,Washington,d:\NLP_Project_tasks_6_8_11\OCR_output\Washington\Washington_17.txt,2.5187776999082416,0.04351997375488281,89.9921875,89.9921875,0.0,False
+Washington/Washington_19,Washington,d:\NLP_Project_tasks_6_8_11\OCR_output\Washington\Washington_19.txt,2.1779793999157846,0.04012107849121094,89.9921875,89.9921875,0.0,False
+Washington/Washington_34,Washington,d:\NLP_Project_tasks_6_8_11\OCR_output\Washington\Washington_34.txt,4.106267800088972,0.3230562210083008,89.9921875,90.015625,0.0234375,False
+Washington/Washington_4,Washington,d:\NLP_Project_tasks_6_8_11\OCR_output\Washington\Washington_4.txt,2.241187599953264,0.03957843780517578,90.015625,90.015625,0.0,False
+Wisconsin/Wisconsin_12,Wisconsin,d:\NLP_Project_tasks_6_8_11\OCR_output\Wisconsin\Wisconsin_12.txt,3.3613402999471873,0.27616024017333984,90.015625,90.015625,0.0,False
+Wisconsin/Wisconsin_9,Wisconsin,d:\NLP_Project_tasks_6_8_11\OCR_output\Wisconsin\Wisconsin_9.txt,2.2093974000308663,0.04061698913574219,90.015625,90.015625,0.0,False

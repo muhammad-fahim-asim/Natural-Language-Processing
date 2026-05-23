@@ -1,0 +1,2 @@
+n_docs,n_errors,total_time_sec,avg_time_per_doc_sec,median_time_per_doc_sec,p95_time_per_doc_sec,max_py_peak_mem_mb
+298,3,895.9627809999511,3.003187852024863,2.7524971001548693,4.437460389907931,0.5515851974487305
