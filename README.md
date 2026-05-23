@@ -54,6 +54,3 @@ This repository contains a collection of NLP experiments and pipelines for extra
 - Java 17+ for `heideltime-standalone`
 - Sufficient memory for model inference and dataset processing
 
-## Short GitHub Project Description
-
-A legal document mining repo for NLP research, with OCR-based agreement parsing, temporal extraction via HeidelTime, and hybrid clause extraction for renewal and evaluation provisions.
